@@ -1,6 +1,6 @@
 # https://github.com/shividoge/lab11-SA-NP
 # Partner 1: Shivin Anand
-# Partner 2: NP
+# Partner 2: Nicholas Pallapati
 import unittest
 from calculator import *
 
